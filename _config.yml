@@ -263,10 +263,11 @@ sass:
 #
 #
 
-asciidoctor-enabled: false
-asciidoctor:
-  description: 
-  attributes:
-    source-highlighter: coderay
-    coderay-css: style
-    icons: font
+##TODO wieder eimschaltem
+# asciidoctor-enabled: false
+# asciidoctor:
+#   description: 
+#   attributes:
+#     source-highlighter: coderay
+#     coderay-css: style
+#     icons: font
